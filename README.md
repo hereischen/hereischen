@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hereischen&label=Profile%20views&color=0e75b6&style=flat" alt="hereischen" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lolyu" alt="hereischen" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hereischen" alt="hereischen" /></a> </p>
 <br>
-<a href="https://github.com/hereischen/lolhereischenyu">
+<a href="https://github.com/hereischen/hereischen">
   <img align="center"
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hereischen&hide=Makefile&show_icons=true&locale=en&layout=compact"/>
 </a>
