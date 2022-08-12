@@ -20,7 +20,6 @@ Here are some ideas to get you started:
   <img align="center"
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hereischen&hide=Makefile&show_icons=true&locale=en&layout=compact"/>
 </a>
-</br>
 <a href="https://github.com/hereischen/hereischen">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hereischen&show_icons=true&line_height=27&count_private=true" alt="Stats" />
 </a>
