@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hereischen&label=Profile%20views&color=0e75b6&style=flat" alt="hereischen" /> </p>
-<a href="https://github.com/hereischen/hereischen">
+<!-- <a href="https://github.com/hereischen/hereischen">
   <img align="center"
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hereischen&hide=Makefile&show_icons=true&locale=en&layout=compact"/>
 </a>
+ -->
